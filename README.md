@@ -87,22 +87,3 @@ AccioJob (Hyderabad)
 *January 2026 – August 2026*
 
 ---
-
-## 📈 GitHub Stats
-
-![Shweta's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true)
-
----
-
-### 💡 Let's build something amazing together!
-
-Feel free to explore my repositories and star the ones you like ⭐  
-I'm always open to collaboration and new opportunities in frontend & full-stack development.
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=blue" alt="Profile Views" />
-</p>
