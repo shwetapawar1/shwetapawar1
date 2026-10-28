@@ -41,7 +41,7 @@ I have hands-on experience with **Node.js**, **Express.js**, and **MongoDB**, an
 ## 💼 Work Experience
 
 ### Junior Frontend Developer  
-**Zappian - Revvmind Media** | *April 2024 – November 2025*  
+**Revvmind Media** | *April 2024 – November 2025*  
 📍 Bhopal, Madhya Pradesh
 
 **Product:** Campaign Labs (Email Marketing Platform)
